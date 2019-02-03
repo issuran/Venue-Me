@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (4.7.2)
+  - RevealingSplashView (0.5.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - RevealingSplashView
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - RevealingSplashView
+
+SPEC CHECKSUMS:
+  Alamofire: e4fa87002c137ba2d8d634d2c51fabcda0d5c223
+  RevealingSplashView: 0794eecad3a8983ac11a1fe474e9a9b51b926780
+
+PODFILE CHECKSUM: ab9f49d95ea48a3fbb1e4070679599d077c38fe0
+
+COCOAPODS: 1.5.3

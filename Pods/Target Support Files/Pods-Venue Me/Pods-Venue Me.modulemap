@@ -1,0 +1,6 @@
+framework module Pods_Venue_Me {
+  umbrella header "Pods-Venue Me-umbrella.h"
+
+  export *
+  module * { export * }
+}
